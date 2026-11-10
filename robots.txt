@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stcloudhvacco.com/sitemap.xml
